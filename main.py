@@ -287,7 +287,6 @@ class BrickBraker(arcade.Window):
         self.paddle_list.draw()
         self.brick_list.draw()
         self.ball_list.draw()
-        #self.ball_sprite.draw_hit_box([255,0,0,255])
         self.wall_list.draw()
 
         arcade.draw_text(f'Score: {self.score}', 30, 15, arcade.color.BLACK, 12, font_name='arial')
