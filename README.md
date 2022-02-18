@@ -6,7 +6,7 @@ The object of the game is to score points be knocking a ball into bricks. The pl
 
 I choose to create this game to gain experience with the Arcade library. This project has helped me learn the fundamentals of Arcade so that I can complete more ambitious projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dnkDF61Drm4)
 
 # Development Environment
 
