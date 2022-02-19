@@ -40,9 +40,19 @@ class BrickBraker(arcade.Window):
         self.level = None
         self.lives = None
         self.game_over = None
+        
+        # variable for background music
+        self.init_sounds()
 
         # set the background color
         arcade.set_background_color(arcade.color.PALE_COPPER)
+    
+    def init_sounds(self):
+        """
+        This function sets up the background music for the game
+        """
+        self.bg_music = arcade.load_sound('music-short.wav')
+        self.bg_music.play(loop=True)
     
     def populate_bricks(self, image='images/brick.png'):
         """

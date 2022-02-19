@@ -25,3 +25,7 @@ I choose to create this game to gain experience with the Arcade library. This pr
 * Add an instructions screen within the game
 * Create different brick types, some of which have a chance of altering the game (adding an extra ball, changing the paddle size, etc)
 * Implement random brick layout generations so that the game continues so long as the player has lives
+
+# Music Credit
+
+* Music: “Bright Future”, from PlayOnLoop.com. Licensed under Creative Commons by Attribution 4.0
